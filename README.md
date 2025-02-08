@@ -102,11 +102,7 @@ Ensure that you have the following installed:
 - 
             *Admin*: hawa
             *Admin pass*: hawa1234@r
-  ![API Architecture](https://github.com/HawaMuhumedAli/blog-app-mern-s/blob/3da32962f3a3596db679d9b066535260e8b942d9/admin.png)
-   ![API Architecture](https://github.com/HawaMuhumedAli/blog-app-mern-s/blob/3da32962f3a3596db679d9b066535260e8b942d9/usersadmin.png)
-             *User*: halimo
-            *User pass*: halimo1234@r
-  ![API Architecture](https://github.com/HawaMuhumedAli/blog-app-mern-s/blob/15f3fdf1b77803c220b0db8acd6ef7ce173c451a/user.png)
+
 
 
 ...
